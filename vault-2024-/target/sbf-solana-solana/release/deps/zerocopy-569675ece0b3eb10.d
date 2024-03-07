@@ -1,0 +1,15 @@
+/home/melisa/development/wba_practice/vault-2024/target/sbf-solana-solana/release/deps/zerocopy-569675ece0b3eb10.rmeta: /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/lib.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macros.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macro_util.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/post_monomorphization_compile_fail_tests.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/util.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/third_party/rust/layout.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/wrappers.rs
+
+/home/melisa/development/wba_practice/vault-2024/target/sbf-solana-solana/release/deps/libzerocopy-569675ece0b3eb10.rlib: /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/lib.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macros.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macro_util.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/post_monomorphization_compile_fail_tests.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/util.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/third_party/rust/layout.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/wrappers.rs
+
+/home/melisa/development/wba_practice/vault-2024/target/sbf-solana-solana/release/deps/zerocopy-569675ece0b3eb10.d: /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/lib.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macros.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macro_util.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/post_monomorphization_compile_fail_tests.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/util.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/third_party/rust/layout.rs /home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/wrappers.rs
+
+/home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/lib.rs:
+/home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macros.rs:
+/home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/macro_util.rs:
+/home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/post_monomorphization_compile_fail_tests.rs:
+/home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/util.rs:
+/home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/third_party/rust/layout.rs:
+/home/melisa/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.32/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.32
